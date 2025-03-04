@@ -112,3 +112,6 @@ Try cloning this repo and adding the following enhancements:
 - Save and load data to a CSV or JSON file to have persistence
 - Hash passwords to improve security
 - Improve error handling and input validation
+
+## Thanks for stopping by!
+You can also find business rules in BUSINESSRULES.md and diagrams in DIAGRAMS.md.
